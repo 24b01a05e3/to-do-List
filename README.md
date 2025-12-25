@@ -37,3 +37,7 @@ Conditional statements (if-elif-else)
 Functions for code reusability
 
 User input and output handling
+<img width="735" height="1044" alt="image" src="https://github.com/user-attachments/assets/ea2d7916-6d31-4112-bb9d-3caf0dbf37ea" />
+<img width="489" height="661" alt="image" src="https://github.com/user-attachments/assets/d9045f54-4551-4d88-89dc-33b6f0b5fcf7" />
+
+
